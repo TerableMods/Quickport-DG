@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Quickport DG",
+    "author": "TerableMods",
+    "description": "Quickly teleports you to a dungeon using a chat command",
+    "options": {
+		"niceName": "Quickport DG",
+        "guiName": "Quickport DG"
+	},
+    "servers": ["https://raw.githubusercontent.com/TerableMods/Quickport-DG/master/"],
+	"supportUrl": "https://github.com/TerableMods/Quickport-DG/issues"
+}
