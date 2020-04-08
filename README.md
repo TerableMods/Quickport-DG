@@ -10,7 +10,7 @@
 
 ---
 - The *definitions* above must have their opcode mapped for your region (if they are not mapped by default):
-  - NA patch **91.4** = [protocol.365097.map](https://github.com/tera-proxy/tera-data/blob/master/map/protocol.365097.map)
+  - NA patch **92.3** = [protocol.366221.map](https://github.com/tera-proxy/tera-data/blob/master/map/protocol.366221.map)
   - EU patch **92.3** = [protocol.366222.map](https://github.com/tera-proxy/tera-data/blob/master/map/protocol.366222.map)
 
 - The *.map* file containing your region's opcodes must be placed inside of:
@@ -27,28 +27,21 @@
   - to teleport to the specified dungeon name  **[tag]**
   - Example: **dg gvn** will teleport you to Gossamer Vault (**gvn** being the **[tag]**)
 
-|         Dungeon Name         |        Tags       |
-| -----------------------------|-------------------|
-| Forbidden Arena Challenge    | fa                |
-| Corrupted Skynest (NM/HM)    | cs, csn, csh      |
-| Akalath Quarantine           | aq                |
-| Bahaar's Sanctum             | bs, bahaar        |
-| Gossamer Vault  (NM/HM)      | gv, gvn, gvh      |
-| Demokron Factory (NM/HM)     | df, dfn, dfh      |
-| Grotto of Lost Souls (NM/HM) | gls, glsn, glsh   |
-| Antaroth's Abyss (NM/HM)     | aa, aan,  aah     |
-| RK-9 Kennel (NM/HM)          | rk, rkn, rkh, rke |
-| Ruinous Manor (NM/HM)        | rm, rmn, rmh      |
-| Velik's Sanctuary (NM/HM)    | vs, vsn, vsh      |
-| Macellarious Catacombs       | mc                |
-| Shadow Sanguinary            | ss, ssn           |
-| Dark Reach Citadel           | dr, drc, drcn     |
-| Red Refuge                   | rr, rrn           |
-| Lilith's Keep                | lk, lkn           |
-| Velik's Hold                 | vh                |
-| Thaumetal Refinery           | tr, trn           |
-| Ravenous Gorge               | rg                |
-| Channelworks                 | cw                |
+|        Dungeon Name         |    Tags    |
+| ----------------------------|------------|
+| Corrupted Skynest (Hard)    | cs, csh    |
+| Corrupted Skynest (NM/HM)   | cs, csn    |
+| Forbidden Arena Challenge   | fa         |
+| Bahaar's Sanctum            | bs, bahaar |
+| Akalath Quarantine          | aq         |
+| Gossamer Vault  (Hard)      | gv, gvh    |
+| Antaroth's Abyss (Hard)     | aa, aah    |
+| Grotto of Lost Souls (Hard) | gls, glsh  |
+| RK-9 Kennel                 | rk, rkn    |
+| Red Refuge                  | rr, rrn    |
+| Velik's Hold                | vh         |
+| Velik's Sanctuary           | vs, vsn    |
+| Macellarious Catacombs      | mc         |
 
 ---
 
@@ -59,6 +52,6 @@
 
 ---
 
-Patch Version: **91.4**
+Patch Version: **92.3**
 
 ![UI](/ui.png)

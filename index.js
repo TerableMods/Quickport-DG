@@ -57,7 +57,7 @@ module.exports = function QuickportDG(mod) {
             let list = [];
             dungeons.forEach((x) => {
                 list.push({
-                    text: `<font color="${x.color}" size="+22">• ${x.name}</font> <font color="#FF00FF" size="+18"> ilvl:</font> ${x.ilvl} <font color="#FFFF00" size="+18"> Coins:</font> ${x.coins} <font color="#00FFFF" size="+18"> Tags:</font> ${x.tags}<br>`,
+                    text: `<font color="${x.color}" size="+27">• ${x.name}</font> <font color="#00FFFF" size="+18"> ilvl:</font> ${x.ilvl} <font color="#FFFF00" size="+18"> Coins:</font> ${x.coins} <font color="#FF00FF" size="+18"> Tags:</font> ${x.tags}<br>`,
                     command: `dg ${x.dg[0]}`,
                 });
             });
