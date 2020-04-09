@@ -30,7 +30,7 @@
 |        Dungeon Name         |    Tags    |
 | ----------------------------|------------|
 | Corrupted Skynest (Hard)    | cs, csh    |
-| Corrupted Skynest (NM/HM)   | cs, csn    |
+| Corrupted Skynest           | cs, csn    |
 | Forbidden Arena Challenge   | fa         |
 | Bahaar's Sanctum            | bs, bahaar |
 | Akalath Quarantine          | aq         |
