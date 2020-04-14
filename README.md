@@ -25,7 +25,7 @@
 
 - **dg [tag]**
   - to teleport to the specified dungeon name  **[tag]**
-  - Example: **dg gvn** will teleport you to Gossamer Vault (**gvn** being the **[tag]**)
+  - Example: **dg aq** will teleport you to Akalath Quarantine (**aq** being the **[tag]**)
 
 |        Dungeon Name         |    Tags    |
 | ----------------------------|------------|
@@ -34,7 +34,7 @@
 | Forbidden Arena Challenge   | fa         |
 | Bahaar's Sanctum            | bs, bahaar |
 | Akalath Quarantine          | aq         |
-| Gossamer Vault  (Hard)      | gv, gvh    |
+| Gossamer Vault (Hard)       | gv, gvh    |
 | Antaroth's Abyss (Hard)     | aa, aah    |
 | Grotto of Lost Souls (Hard) | gls, glsh  |
 | RK-9 Kennel                 | rk, rkn    |
@@ -49,6 +49,7 @@
 
 - You must meet the ilvl requirements to teleport to a dungeon
 - All teleporting replicates using the Vanguard window and is 100% safe
+- Might say your item level is too low if you have no daily vanguards remaining
 
 ---
 
