@@ -10,6 +10,17 @@
         "color": "#BB00FF",
         "active": true
     },
+    {
+        "dg": ["dah", "dahm"],
+        "name": "Draakon Arena (Hard)",
+		"ilvl": "470",
+		"coins": "250",
+		"tags": "dah | dahm",
+        "quest": 2174,
+        "instance": 3202,
+        "color": "#BB00FF",
+        "active": true
+    },
 	{
         "dg": ["cs", "csn"],
         "name": "Corrupted Skynest",
@@ -41,6 +52,17 @@
         "quest": 2162,
         "instance": 9044,
         "color": "#D01111",
+        "active": true
+    },
+    {
+        "dg": ["da", "dan"],
+        "name": "Draakon Arena",
+		"ilvl": "456",
+		"coins": "200",
+		"tags": "da | dan",
+        "quest": 2173,
+        "instance": 3102,
+        "color": "#FF7733",
         "active": true
     },
     {

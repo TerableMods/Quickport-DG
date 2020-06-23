@@ -10,8 +10,7 @@
 
 ---
 - The *definitions* above must have their opcode mapped for your region (if they are not mapped by default):
-  - NA patch **92.3** = [protocol.366221.map](https://github.com/tera-proxy/tera-data/blob/master/map/protocol.366221.map)
-  - EU patch **92.3** = [protocol.366222.map](https://github.com/tera-proxy/tera-data/blob/master/map/protocol.366222.map)
+  - NA patch **95.3** download = [protocol.369047.map](https://github.com/TerableMods/OP-codez)
 
 - The *.map* file containing your region's opcodes must be placed inside of:
 > TeraToolbox\data\opcodes
@@ -30,10 +29,12 @@
 |        Dungeon Name         |    Tags    |
 | ----------------------------|------------|
 | Corrupted Skynest (Hard)    | cs, csh    |
+| Draakon Arena (Hard)        | dah, dahm  |
 | Corrupted Skynest           | cs, csn    |
 | Forbidden Arena Challenge   | fa         |
 | Bahaar's Sanctum            | bs, bahaar |
 | Akalath Quarantine          | aq         |
+| Draakon Arena (Hard)        | da, dan    |
 | Gossamer Vault (Hard)       | gv, gvh    |
 | Antaroth's Abyss (Hard)     | aa, aah    |
 | Grotto of Lost Souls (Hard) | gls, glsh  |
@@ -47,12 +48,13 @@
 
 ## Info:
 
-- You must meet the ilvl requirements to teleport to a dungeon
-- All teleporting replicates using the Vanguard window and is 100% safe
-- Might say your item level is too low if you have no daily vanguards remaining
-
+- You must meet the ilvl requirements to teleport to a dungeon (must be available in your Vanguard window)
+- You may get "your item level is too low" error message, if you have no daily vanguards remaining
+- Replicates teleporting using the Vanguard window and is 100% safe
+- **Patch 95.3 has a known Vanguard window bug, so first make sure dungeons are available in your Vanguard window**
+  - Teleporting to Ghillieglade using a scroll will correct this in game bug (or completing any vanguard)
 ---
 
-Patch Version: **92.3**
+Patch Version: **95.3** (
 
 ![UI](/ui.png)
