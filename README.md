@@ -34,7 +34,7 @@
 | Forbidden Arena Challenge   | fa         |
 | Bahaar's Sanctum            | bs, bahaar |
 | Akalath Quarantine          | aq         |
-| Draakon Arena (Hard)        | da, dan    |
+| Draakon Arena               | da, dan    |
 | Gossamer Vault (Hard)       | gv, gvh    |
 | Antaroth's Abyss (Hard)     | aa, aah    |
 | Grotto of Lost Souls (Hard) | gls, glsh  |
