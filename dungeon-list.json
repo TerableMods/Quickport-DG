@@ -109,6 +109,17 @@
         "color": "#FF7733",
         "active": true
     },
+	{
+        "dg": ["re", "ren"],
+        "name": "Rift's Edge",
+		"ilvl": "452",
+		"coins": "150",
+		"tags": "re | ren",
+        "quest": 2104,
+        "instance": 9750,
+        "color": "#FFD500",
+        "active": true
+    },
     {
         "dg": ["rk", "rkn"],
         "name": "RK-9 Kennel",
@@ -129,6 +140,17 @@
         "quest": 2154,
         "instance": 9739,
         "color": "#FFD500",
+        "active": true
+    },
+	{
+        "dg": ["cr", "raid"],
+        "name": "Commander’s Residence",
+		"ilvl": "450",
+		"coins": "300",
+		"tags": "cr | raid",
+        "quest": 98356,
+        "instance": 2050,
+        "color": "#DDAADD",
         "active": true
     },
     {
