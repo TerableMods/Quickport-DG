@@ -110,11 +110,11 @@
         "active": true
     },
 	{
-        "dg": ["re", "ren"],
-        "name": "Rift's Edge",
+        "dg": ["kg"],
+        "name": "Kezzel's Gorge",
 		"ilvl": "452",
 		"coins": "150",
-		"tags": "re | ren",
+		"tags": "kg",
         "quest": 2104,
         "instance": 9750,
         "color": "#FFD500",
@@ -137,8 +137,8 @@
 		"ilvl": "452",
 		"coins": "150",
 		"tags": "rr | rrn",
-        "quest": 2154,
-        "instance": 9739,
+        "quest": 2175,
+        "instance": 9053,
         "color": "#FFD500",
         "active": true
     },
@@ -183,6 +183,28 @@
 		"tags": "mc",
         "quest": 2101,
         "instance": 9809,
+        "color": "#00CC66",
+        "active": true
+    },
+    {
+        "dg": ["hw"],
+        "name": "Highwatch",
+		"ilvl": "1",
+		"coins": "0",
+		"tags": "hw",
+        "quest": 90331,
+        "instance": 3016,
+        "color": "#00CC66",
+        "active": true
+    },
+    {
+        "dg": ["hw0"],
+        "name": "Highwatch (no VG)",
+		"ilvl": "1",
+		"coins": "0",
+		"tags": "hw0",
+        "quest": 90332,
+        "instance": 3016,
         "color": "#00CC66",
         "active": true
     }
