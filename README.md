@@ -10,10 +10,10 @@
 > TeraToolbox\data\definitions
 
 ---
-- The *definitions* above must have their opcode mapped for your region (if they are not mapped by default):
-  - NA patch **98.2** download = [protocol.373821.map](https://github.com/TerableMods/OP-codez)
+- The *definition* above must have its opcode mapped for your region, download it here:
+  - NA patch **102.2** => [protocol.373821.map](https://github.com/TerableMods/OP-codez)
 
-- The *.map* file containing your region's opcodes must be placed inside of:
+- The *.map* file in the link above, must be placed inside of:
 > TeraToolbox\data\opcodes
 
 ---
@@ -29,23 +29,18 @@
 
 |        Dungeon Name         |    Tags    |
 | ----------------------------|------------|
-| Corrupted Skynest (Hard)    | cs, csh    |
-| Draakon Arena (Hard)        | dah, dahm  |
-| Corrupted Skynest           | cs, csn    |
-| Forbidden Arena Challenge   | fa         |
+| Corrupted Skynest (Hard)    | csh, cshm  |
+| Catalepticon (Hard)         | cth, cah   |
 | Bahaar's Sanctum            | bs, bahaar |
-| Akalath Quarantine          | aq         |
+| Ruinous Manor (Hard)        | rmh, rmhm  |
+| Catalepticon                | ct, ctn    |
+| Corrupted Skynest           | cs, csn    |
+| Forbidden Arena [UW]        | fa, fau    |
 | Draakon Arena               | da, dan    |
-| Gossamer Vault (Hard)       | gv, gvh    |
-| Antaroth's Abyss (Hard)     | aa, aah    |
-| Grotto of Lost Souls (Hard) | gls, glsh  |
-| Kezzel's Gorge              | kg         |
-| RK-9 Kennel                 | rk, rkn    |
-| Red Refuge                  | rr, rrn    |
+| Akalath Quarantine          | aq         |
+| Ruinous Manor (Easy)        | rm, rmn    |
+| Gossamer Vault (Easy)       | gv, gvn    |
 | Commander's Residence       | cr, raid   |
-| Velik's Hold                | vh         |
-| Velik's Sanctuary           | vs, vsn    |
-| Macellarious Catacombs      | mc         |
 | Highwatch                   | hw         |
 | Highwatch (no Vanguards)    | hw0        |
 
@@ -61,6 +56,6 @@
 
 ---
 
-Patch Version: **98.2**
+Patch Version: **102.2**
 
 ![UI](/ui.png)
