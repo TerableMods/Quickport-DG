@@ -11,7 +11,7 @@
 
 ---
 - The *definition* above must have its opcode mapped for your region, download it here:
-  - NA patch **102.2** => [protocol.373821.map](https://github.com/TerableMods/OP-codez)
+  - NA patch **102.2** => [protocol.373447.map](https://github.com/TerableMods/OP-codez)
 
 - The *.map* file in the link above, must be placed inside of:
 > TeraToolbox\data\opcodes
