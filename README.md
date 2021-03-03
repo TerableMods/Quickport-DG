@@ -11,7 +11,7 @@
 
 ---
 - The *definition* above must have its opcode mapped for your region, download it here:
-  - NA patch **102.2** => [protocol.378447.map](https://github.com/TerableMods/OP-codez)
+  - NA patch **103.2** => [protocol.379348.map](https://github.com/TerableMods/OP-codez)
 
 - The *.map* file in the link above, must be placed inside of:
 > TeraToolbox\data\opcodes
@@ -31,12 +31,14 @@
 | ----------------------------|------------|
 | Corrupted Skynest (Hard)    | csh, cshm  |
 | Catalepticon (Hard)         | cth, cah   |
+| Crimson Killing Grounds     | kgh, ckg   |
 | Bahaar's Sanctum            | bs, bahaar |
 | Ruinous Manor (Hard)        | rmh, rmhm  |
-| Catalepticon                | ct, ctn    |
 | Corrupted Skynest           | cs, csn    |
 | Forbidden Arena [UW]        | fa, fau    |
 | Draakon Arena               | da, dan    |
+| Killing Grounds     		  | kg		   |
+| Catalepticon                | ct, ctn    |
 | Akalath Quarantine          | aq         |
 | Ruinous Manor (Easy)        | rm, rmn    |
 | Gossamer Vault (Easy)       | gv, gvn    |
@@ -56,6 +58,6 @@
 
 ---
 
-Patch Version: **102.2**
+Patch Version: **103.2**
 
 ![UI](/ui.png)

@@ -20,7 +20,18 @@
         "instance": 3204,
         "color": "#BB00FF",
         "active": true
-    },	
+    },
+    {
+        "dg": ["kgh", "ckg"],
+        "name": "Crimson Killing Grounds",
+		"ilvl": "501",
+		"coins": "350",
+		"tags": "kgh | ckg",
+        "quest": 2184,
+        "instance": 3206,
+        "color": "#BB00FF",
+        "active": true
+    },
     {
         "dg": ["bs", "bahaar"],
         "name": "Bahaar's Sanctum",
@@ -29,7 +40,7 @@
 		"tags": "bs | bahaar",
         "quest": 2162,
         "instance": 9044,
-        "color": "#D01111",
+        "color": "#BB00FF",
         "active": true
     },
     {
@@ -40,18 +51,7 @@
 		"tags": "rmh | rmhm",
         "quest": 2138,
         "instance": 9970,
-        "color": "#D01111",
-        "active": true
-    },
-    {
-        "dg": ["ca", "cat", "ct", "ctn"],
-        "name": "Catalepticon",
-		"ilvl": "498",
-		"coins": "280",
-		"tags": "ca | cat | ct | ctn",
-        "quest": 2181,
-        "instance": 3104,
-        "color": "#FFD500",
+        "color": "#BB00FF",
         "active": true
     },
     {
@@ -62,7 +62,7 @@
 		"tags": "cs | csn",
         "quest": 2169,
         "instance": 3026,
-        "color": "#FFD500",
+        "color": "#D01111",
         "active": true
     },
     {
@@ -73,17 +73,39 @@
 		"tags": "fa | fau | faun | fauw",
         "quest": 2178,
         "instance": 3103,
-        "color": "#FFD500",
+        "color": "#D01111",
         "active": true
     },
     {
         "dg": ["da", "dan"],
         "name": "Draakon Arena",
-		"ilvl": "498",
+		"ilvl": "496",
 		"coins": "280",
 		"tags": "da | dan",
         "quest": 2173,
         "instance": 3102,
+        "color": "#FFD500",
+        "active": true
+    },
+    {
+        "dg": ["kg"],
+        "name": "Killing Grounds",
+		"ilvl": "496",
+		"coins": "280",
+		"tags": "kg",
+        "quest": 2185,
+        "instance": 3106,
+        "color": "#FFD500",
+        "active": true
+    },
+    {
+        "dg": ["ca", "cat", "ct", "ctn"],
+        "name": "Catalepticon",
+		"ilvl": "494",
+		"coins": "280",
+		"tags": "ca | cat | ct | ctn",
+        "quest": 2181,
+        "instance": 3104,
         "color": "#FFD500",
         "active": true
     },
@@ -119,7 +141,7 @@
         "instance": 3101,
         "color": "#DDAADD",
         "active": true
-    },    
+    },
     {
         "dg": ["cr", "raid"],
         "name": "Commander’s Residence",
@@ -130,7 +152,7 @@
         "instance": 2050,
         "color": "#FF7733",
         "active": true
-    },    
+    },
     {
         "dg": ["hw"],
         "name": "Highwatch",
